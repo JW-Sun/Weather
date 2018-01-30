@@ -39,7 +39,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="AQI指数"
-                    android:textColor="#ff0000"/>
+                    android:textColor="#00ff3c"/>
             </LinearLayout>
 
         </RelativeLayout>
@@ -64,7 +64,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="PM2.5指数"
-                    android:textColor="#ff0000"/>
+                    android:textColor="#00ff3c"/>
 
             </LinearLayout>
         </RelativeLayout>
@@ -89,7 +89,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:text="空气质量状况"
-                    android:textColor="#ff0000"/>
+                    android:textColor="#00ff3c"/>
             </LinearLayout>
         </RelativeLayout>
     </LinearLayout>
